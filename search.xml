@@ -18,4 +18,23 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>test_passwd</title>
+    <url>/2025/01/28/test-passwd/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="8c735483050dd06426949741aaa8c910d145a90905ae73a74ff9c520dc941a0c">bd25ed9264b080267271e137e33d0ce118960a041ac35a180347d4bc9710c7dcc004cbdc43d8b8a9383c7bb45da5a8da4de9681dabe237e5987fa95be98d0a52ee9ab4b7bc0351174120e46a4834bd610c43cfb838bd8b6e96456739e70b13d03f204ebb9004572fb95ea4c228b31cb16c2562cf7a4db3b548ea5251a3a2c6f1108194f609131a43c9b901d3d77e9bb886cf3c79b141078e83368dcc25e58bcf497bb21d100951d372781daea7ffdde95ba22d488bf614c2f24482ed9d28ddf67690a289712ef8498d82a6ed5e90e7cfa0272b6df0da5a59335b83d3a8c11c2771b516ab18916ea6887735d62f7cee03a2ec7400d82a09e86ca60150c1a7d6adbeeaf5029d3bcf6d864d1dde62361aed183d07e22c8f32f2d543621564e422f8b15eb4a44e8f17f229c1c902a74cbf7c86a6583df00ce0dc78cefebc703683bb730821d4613b368fdb022e968b753391</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
 </search>

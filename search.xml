@@ -36,11 +36,20 @@
 ]]></content>
   </entry>
   <entry>
+    <title>test_images</title>
+    <url>/2025/01/29/test-images/</url>
+    <content><![CDATA[<h1 id="A-test-for-imgs"><a href="#A-test-for-imgs" class="headerlink" title="A test for imgs"></a>A test for imgs</h1><p><img src="/./../images/test-images/%E6%8D%95%E8%8E%B7.PNG" alt="捕获"></p>
+]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test_passwd</title>
     <url>/2025/01/28/test-passwd/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="1ec75a9a6255ac62c29637fb0db16674d497f41c6c5f4b947625488fec578e01" data-keysalt="dc30711bf3c3e29091b96d6f70be6c457595af23c5ef24641d73db9f1881b1ee" data-ivsalt="c28c6d70eefb232cc1d93e49fa739f87e5e0d935f87a2e09691da808b93d4f01">
-    00bc8b92d24cc2a396752ecf85a195513e93e1d22151c4542fbef33a7cb3d69dc323b2a7624447f1eac08774b33e60240f75afced2cf4f05151919d5a889d746336223163868929e5eb305add53bfc3af052ab9857f3a2255ec6047524cccaff16d2eb258aa2995c87a363934d4c5a46e231f6363cb66abef6177669b0e44f8b594854b1b3a46d483040e9796a844850207cc4c19b39e2ad1d5a64f4c581f1c9c4316f6890ab9a413159e3da7ce6184987dc1c4f8ff567dce463ff7eb78c69a11657642b2ba0e60e96b7f3591d47604d61dce0a9d077ee873dce3c2ddf4816f7af697343e01b2851c3c6b3f4ef6c0ecaa3ba13997b2a6280bb3a2bd41178e7068abc53a750d42f518084808d636c34fa63fbd41eb5b23af57354ed27497383a4cfb30f58e36fda6b225751e8c8dfac9d3f44a1c85ba505e8c75c9efdbb0348a91724d0f4cd1df0ff03ff906e7a5f65e4
+  <script id="hbeData" type="hbeData" data-hmacdigest="4554681067d522264a042a06190524cacda0eeaf3c8f694b8dcbce3c743223ed" data-keysalt="86e4443175493ede931f872fc79e865bf7f3aa222242ee530440d93fa16befd5" data-ivsalt="b225aa14658410f5a369b77bb7184a93545e5d8b5f8f9f80c13414fc238791cc">
+    6cb7d89984747e978c0e376287d1141d91de9516decd3dc4c9bf8a455c899a0066509620b190c66de711d6e3711c92352f4c14fc1d869eeba52a713ff2bd413c82a4cf2129266e7e1a92c6fb2dffa692729c281e1af3570d7a53370ee8c85052bd83c7b0999aa5a5520e7451bb1d0cca2cbfb0ab97358b90e044686c84001978b80646efff053e3b0523410ba06717bfd2a31157cd839cb447af9085f5b538a2e4d911df65a803fb0d385d974de186b69c9d64be09f1d9b07aaa12eaaae29a61f31daa79a9b9f045fe196a52d55e91c06b6f0858eed238743a985c236882bc2955b1664bd385d636047dae96e6a1ee21d5ff6117fcfbb7fb0286f568568f907043f01ec4f96afdddea02ed1e5c7ec00b550ca1bc2d36945d001bf434974310003dbffa496639088f56df34ac728c6f6c82970a19e47b8d532574df3f75d0bd65b03582a98beb5559d97918e7ab95ae56
   </script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
@@ -52,6 +61,15 @@
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test_new_temple</title>
+    <url>/2025/01/29/test-new-temple/</url>
+    <content><![CDATA[<h1 id="just-a-test"><a href="#just-a-test" class="headerlink" title="just a test"></a>just a test</h1><p>nothing here</p>
+]]></content>
       <tags>
         <tag>test</tag>
       </tags>
